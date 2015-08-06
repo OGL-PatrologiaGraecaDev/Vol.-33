@@ -1,0 +1,24 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/33/coo.31924054869304/004.png"; bbox 0 0 2026 3175; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1154 203 2026 2090">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1174 743 2020 1521">
+     <span class='ocr_line' id='line_1_1' title="bbox 1174 743 2002 994; baseline -0.008 -24"><span class='ocrx_word' id='word_1_1' title='bbox 1239 743 2002 994; x_wconf 42' lang='grc' dir='ltr'>ηκμ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1200 987 1988 1131; baseline -0.01 -23"><span class='ocrx_word' id='word_1_2' title='bbox 1200 987 1674 1122; x_wconf 52' lang='lat' dir='ltr'>::L__;1i”</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1204 1223 2020 1521; baseline -0.01 1"><span class='ocrx_word' id='word_1_3' title='bbox 1398 1236 1850 1521; x_wconf 63' lang='grc' dir='ltr'><em>λ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 98 1106 146 1994">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 98 1106 146 1866">
+     <span class='ocr_line' id='line_1_4' title="bbox 101 1106 121 1506; baseline 0 -9"><span class='ocrx_word' id='word_1_4' title='bbox 102 1106 121 1484; x_wconf 49' lang='grc' dir='ltr'><em>ἱ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 100 1515 122 1658; baseline 0.227 -4"><span class='ocrx_word' id='word_1_5' title='bbox 100 1519 122 1658; x_wconf 52' lang='grc' dir='ltr'>γίί</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 98 1656 146 1818; baseline 0.313 -15"><span class='ocrx_word' id='word_1_6' title='bbox 98 1656 146 1818; x_wconf 61' lang='grc' dir='ltr'>ξς</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 102 1810 134 1866; baseline 0 -7"><span class='ocrx_word' id='word_1_7' title='bbox 102 1810 134 1866; x_wconf 68' lang='grc' dir='ltr'><em>ξ</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
